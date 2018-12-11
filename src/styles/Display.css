@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+.display {
+  font-family: Obitron;
+  background-color: #fff;
+  height: 100px;
+  word-wrap: break-word;
+  border: solid 1px gray;
+}
