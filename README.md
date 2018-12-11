@@ -14,4 +14,4 @@ A simple calculator built with React that provides arithmatic operations. It has
 - Clears everything including history and all values and expression
 
 ## Demo
-
+[Link](http://dull-kiss.surge.sh/)
